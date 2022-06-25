@@ -47,7 +47,7 @@ section {
     margin: 50px;
     height: 1000px;
     background-color: black;
-    background-image: url(/img/Laura.jpg);
+    background-image: url("../img/Laura.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
